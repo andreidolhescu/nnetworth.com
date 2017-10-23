@@ -1,5 +1,7 @@
 # nnetworth.com
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nnetworth/nnetworth.com.svg)](https://greenkeeper.io/)
+
 > Vue frontend for nnetworth
 
 ## Build Setup
