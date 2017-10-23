@@ -1,5 +1,6 @@
 # nnetworth.com
 
+[![Build Status](https://travis-ci.org/nnetworth/nnetworth.com.svg?branch=master)](https://travis-ci.org/nnetworth/nnetworth.com)
 [![Greenkeeper badge](https://badges.greenkeeper.io/nnetworth/nnetworth.com.svg)](https://greenkeeper.io/)
 
 > Vue frontend for nnetworth
