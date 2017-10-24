@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 import Vue from 'vue'
 import HelloWorld from '@/components/HelloWorld'
 
